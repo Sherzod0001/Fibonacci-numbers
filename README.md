@@ -20,4 +20,4 @@ The program consists of the following sections.
 
 3. Result
 
-![Result](image-1.png)
+![Result](/image.png)

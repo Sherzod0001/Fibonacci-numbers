@@ -12,8 +12,12 @@ The program consists of the following sections.
 
 1. Input/output section. 
 
-![input](/images/image1.png)
+![input](image.png)
 
 2. The main calculation section of the program.
 
-![main section](/images/image2.png)
+![main section](image.png)
+
+3. Result
+
+![Result](image-1.png)

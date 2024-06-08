@@ -15,7 +15,7 @@ while (true)
         int nextFibonacci = fibonacciStartOne + fibonacciStartTwo;
         fibonacciStartOne = fibonacciStartTwo;
         fibonacciStartTwo = nextFibonacci;
-        
+
     }
     Console.WriteLine();
     Console.WriteLine("Do you want to use the program again? 👉 y/n 👈");
@@ -25,8 +25,5 @@ while (true)
     {
         break;
     }
-    else
-    {
-        Console.WriteLine("Thank you for using the program 🤝");
-    }
+
 }
